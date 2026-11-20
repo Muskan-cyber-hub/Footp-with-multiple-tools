@@ -48,5 +48,16 @@ Detect website technologies and web server details.
 Develop practical skills in information gathering using Kali Linux.
 
 Note: This lab was conducted for educational purposes in an authorized learning environment.
-# 🏗️ Lab Architecture
-#<img width="700" height="500" alt="download" src="https://github.com/user-attachments/assets/dbc60b5a-0143-45dd-8454-9141cb60e3ea" />
+# 🏗️ Task 1 My whois results
+#<img src="https://sanimgcdn.com/u/024a72eb8e41c6a58b953bbf93246cbe.png" alt="Task 1 of footprinting" loading="lazy" style="max-width:100%;height:auto;">
+# 🏗️ Task 2 My whatweb results
+#<img src="https://sanimgcdn.com/u/1573b6b79c7c396f3c489f7373da28b7.png" alt="Task 2" loading="lazy" style="max-width:100%;height:auto;">
+# 🏗️ Task 3 My nslookup results
+#<img src="https://sanimgcdn.com/u/413dc640d2ed0b1ac874e4e940fd3203.png" alt="Task 3" loading="lazy" style="max-width:100%;height:auto;">
+# 🏗️ Task 4 My curl -I results
+#<img src="https://sanimgcdn.com/u/b0c80900c479781f1da7cdb59941ab1f.png" alt="Task 4" loading="lazy" style="max-width:100%;height:auto;">
+# 🏗️ Task 5 My wafw00f results
+
+#<img src="https://sanimgcdn.com/u/db8112d87ef1f6679f130f37982827bd.png" alt="Task 5" loading="lazy" style="max-width:100%;height:auto;">
+# 🏗️ Task 6 My dnsrecon -d networkwalks.com results
+#<img src="https://sanimgcdn.com/u/afce803ab345c9eb7d1f4211eec0e95c.png" alt="Task 6" loading="lazy" style="max-width:100%;height:auto;">
